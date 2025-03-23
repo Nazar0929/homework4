@@ -38,7 +38,7 @@ if (results > 10) {
 //  — "Текст не містить слово JavaScript".
 
 
-const ivanlegenda = prompt("Напиши Джаваскріпт").trim();
+const ivanlegenda = prompt("Напиши JavaScript").trim();
 
 if (ivanlegenda.includes("JavaScript")) {
     console.log("Текст містить слово JavaScript");
